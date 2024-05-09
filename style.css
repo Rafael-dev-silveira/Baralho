@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+body {
+    background-color: rgb(142, 248, 248);
+}
+
+
+h1 {
+    margin: 50px;
+    color: rgb(112, 87, 255);
+}
+
+.baralho {
+    margin: 50px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 5px;
+    border: 1px solid rgb(112, 87, 255);
+    border-radius: 10px;
+    color: rgb(112, 87, 255);
+    background-color: white;
+}
+
+button:hover {
+    background-color: rgb(1, 214, 252);
+    color: rgb(255, 3, 3);
+}
