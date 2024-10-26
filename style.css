@@ -8,6 +8,7 @@
 
 
 body {
+    height: 100vh;
     background: linear-gradient(120deg, #ffe53bd8, #ff2525da);
 }
 
